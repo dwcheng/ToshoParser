@@ -3,6 +3,7 @@ ToshoParser is a small console application that automates fetching media from to
 # Usage
 Install Python 3 and navigate to ToshoParser's directory, then type
 ```
+pip install feedparser
 python feeds.py
 ```
 
